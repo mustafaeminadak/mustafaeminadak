@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rotating_marine_radar_-_rotating_waveguide_antenna.gif/640px-Rotating_marine_radar_-_rotating_waveguide_antenna.gif" />
+  <img src="https://www.animatedimages.org/data/media/324/animated-antenna-image-0026.gif" />
 </div>
 <h1 align="center">Hi 👋, I'm Mustafa Emin ADAK</h1>
 <h3 align="center">A passionate Electronics and Communication Engineering Student</h3>
@@ -28,20 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafaeminadak&show_icons=true&locale=en" alt="mustafaeminadak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaeminadak&" alt="mustafaeminadak" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
