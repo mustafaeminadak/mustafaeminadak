@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mustafaeminadak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafaeminadak" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mustafaeminadak](https://www.linkedin.com/in/mustafa-emin-adak-b65297246/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafaeminadak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafaeminadak&show_icons=true&locale=en" alt="mustafaeminadak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaeminadak&" alt="mustafaeminadak" /></p>
+
+![](https://github-contributor-stats.vercel.app/api?username=mustafaeminadak&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
+
+![](https://github-profile-trophy.vercel.app/?username=mustafaeminadak&theme=graywhite&no-frame=false&no-bg=false&margin-w=4)
